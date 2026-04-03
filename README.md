@@ -1,2 +1,3 @@
-# privacy-policy
-ポリシー公開専用リポジトリ
+## 各種ポリシー
+
+[Amazon在庫管理ポリシー](./amazon-stock-manager-policy.html)
